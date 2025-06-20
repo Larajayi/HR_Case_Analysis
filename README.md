@@ -23,6 +23,3 @@ You can access the Power BI dashboard used in this case study by downloading the
 ![HR Case Study Screenshot](https://github.com/user-attachments/assets/136477c4-84c3-41f3-9fb0-891933aa8a8f)
 
 
-Click the image below to download and explore the Power BI dashboard used in this case study:
-
-[![HR Case Study Screenshot](https://github.com/user-attachments/assets/136477c4-84c3-41f3-9fb0-891933aa8a8f)](https://github.com/Larajayi/HR_Case_Analysis/blob/main/power%20bi%20HR%20Case%20study.pbix)
